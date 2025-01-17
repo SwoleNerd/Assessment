@@ -46,6 +46,7 @@ python main.py -q "inteligencia artificial"
 ## Estrutura do Projeto
 
 news-article-analyzer/
+
 ├── main.py # Script principal
 
 ├── article.py # Classe Article para gerenciar artigos
