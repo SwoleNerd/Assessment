@@ -32,10 +32,10 @@ pip install -r requirements.txt
 4. Configure as variáveis de ambiente:
 - Renomeie o arquivo `.env_template` para `.env`
 - Adicione suas chaves de API no arquivo `.env`:
-
-    NEWS_API_KEY=sua_chave_news_api
-    GEMINI_API_KEY=sua_chave_gemini
-
+```bash
+NEWS_API_KEY=sua_chave_news_api
+GEMINI_API_KEY=sua_chave_gemini    
+```
 ```bash
 python main.py -q "inteligencia artificial"
 ```
