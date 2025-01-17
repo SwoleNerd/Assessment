@@ -32,6 +32,7 @@ pip install -r requirements.txt
 4. Configure as variáveis de ambiente:
 - Copie o arquivo `.env_template` para `.env`
 - Adicione suas chaves de API no arquivo `.env`:
+
     NEWS_API_KEY=sua_chave_news_api
     GEMINI_API_KEY=sua_chave_gemini
 
@@ -46,10 +47,15 @@ python main.py -q "inteligencia artificial"
 
 news-article-analyzer/
 ├── main.py # Script principal
+
 ├── article.py # Classe Article para gerenciar artigos
+
 ├── news_manager.py # Classe NewsManager para gerenciar requisições
+
 ├── requirements.txt # Dependências do projeto
+
 ├── .env_template # Modelo para variáveis de ambiente
+
 └── .gitignore # Arquivos ignorados pelo git
 
 
