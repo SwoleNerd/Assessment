@@ -43,23 +43,6 @@ python main.py -q "inteligencia artificial"
 ### Parâmetros disponíveis:
 - `-q` ou `--query`: Palavra-chave para busca (padrão: "tech")
 
-## Estrutura do Projeto
-
-news-article-analyzer/
-
-├── main.py # Script principal
-
-├── article.py # Classe Article para gerenciar artigos
-
-├── news_manager.py # Classe NewsManager para gerenciar requisições
-
-├── requirements.txt # Dependências do projeto
-
-├── .env_template # Modelo para variáveis de ambiente
-
-└── .gitignore # Arquivos ignorados pelo git
-
-
 ## Exemplo de Saída
 
 O programa irá:
