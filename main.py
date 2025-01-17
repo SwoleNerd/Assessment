@@ -1,6 +1,5 @@
 import os
 import argparse
-from datetime import datetime, timedelta
 from dotenv import load_dotenv
 from news_manager import NewsManager
 

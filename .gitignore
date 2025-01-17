@@ -1,6 +1,5 @@
 # Environment variables and API keys
 .env
-*.env
 config.ini
 
 # Python virtual environment
