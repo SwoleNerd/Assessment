@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ```
 
 4. Configure as variáveis de ambiente:
-- Copie o arquivo `.env_template` para `.env`
+- Renomeie o arquivo `.env_template` para `.env`
 - Adicione suas chaves de API no arquivo `.env`:
 
     NEWS_API_KEY=sua_chave_news_api
